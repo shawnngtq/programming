@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/anonymous/Documents/practices/scala/ScalaTutorial/src/main/scala/ma/db.scala:334:7: Animal is already defined as class Animal[0m
+[0m[[0m[31merror[0m] [0m[0mclass Animal(var name: String, var sound: String) {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

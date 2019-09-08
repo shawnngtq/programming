@@ -1,0 +1,1 @@
+scalac -bootclasspath /home/anonymous/.sbt/boot/scala-2.12.8/lib/scala-library.jar -classpath /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/classes /home/anonymous/Documents/practices/scala/ScalaTutorial/src/main/scala/ma/db.scala

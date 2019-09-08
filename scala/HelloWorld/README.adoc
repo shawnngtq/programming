@@ -1,0 +1,12 @@
+= Getting Started with Scala in IntelliJ
+:encoding: utf-8
+:lang: en
+:layout: docs
+:toc:
+:toclevels: 6
+:toc-placement!:
+:nofooter:
+
+toc::[]
+
+https://docs.scala-lang.org/getting-started/intellij-track/getting-started-with-scala-in-intellij.html

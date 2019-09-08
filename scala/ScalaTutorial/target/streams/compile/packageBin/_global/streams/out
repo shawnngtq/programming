@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/scalatutorial_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ma[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/classes/ma[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ma/Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/classes/ma/Dog.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ma/Superhero.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/classes/ma/Superhero.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ma/Flyable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/classes/ma/Flyable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ma/Wolf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/classes/ma/Wolf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ma/Mammal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/classes/ma/Mammal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ma/Bulletproof.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/classes/ma/Bulletproof.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ma/db$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/classes/ma/db$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ma/Animal$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/classes/ma/Animal$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ma/db.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/classes/ma/db.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ma/Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/classes/ma/Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/classes/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/db.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/classes/example/db.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/cheatsheet.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/anonymous/Documents/practices/scala/ScalaTutorial/target/scala-2.12/classes/example/cheatsheet.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

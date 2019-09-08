@@ -1,0 +1,12 @@
+= BUILDING A SCALA PROJECT WITH INTELLIJ AND SBT
+:encoding: utf-8
+:lang: en
+:layout: docs
+:toc:
+:toclevels: 6
+:toc-placement!:
+:nofooter:
+
+toc::[]
+
+https://docs.scala-lang.org/getting-started/intellij-track/building-a-scala-project-with-intellij-and-sbt.html
